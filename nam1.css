@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    background-color: #666666;
+    padding-right: 1750;
+}
+.back{
+    border-radius: 5px;
+    background-color: gray;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-style: solid;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nam-text{
+    font-family: 'Fredoka One';
+    font-size: xx-large;
+}
+.stadur{
+    background-color: #666666;
+    margin-top: 1px;
+    border-style: solid;
+}
+
+.mail{
+    background-color: #666666;
+    margin-top: 1px;
+    border-style: solid;
+}
+
+.simi{
+    background-color: #666666;
+    margin-top: 1px;
+    border-style: solid;
+}

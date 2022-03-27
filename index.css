@@ -1,0 +1,113 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    background-color: #666666;
+    padding-right: 1750;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.for{
+    border-radius: 40px;
+    background-color: gray;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    border-style: solid;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.kerfi{
+    border-radius: 40px;
+    background-color: gray;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    border-style: solid;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.bokhald{
+    border-radius: 40px;
+    background-color: gray;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 30px;
+    cursor: pointer;
+    border-style: solid;
+    margin-left: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.frettir1{
+    border-radius: 40px;
+    border-style: solid;
+    background-color: rgb(160, 159, 159);
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1px 1px 1px 1px;
+    cursor: pointer;
+    font-family: 'Fredoka One';
+    box-shadow: 3px 3px 3px gray;
+}
+.frettir2{
+    border-radius: 40px;
+    border-style: solid;
+    background-color: rgb(160, 159, 159);
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1px 1px 1px 1px;
+    cursor: pointer;
+    font-family: 'Fredoka One';
+    box-shadow: 3px 3px 3px gray;
+}
+.Framundan{
+    border-radius: 40px;
+    border-style: solid;
+    background-color: rgb(212, 212, 212);
+    padding: 20px 40px 20px 40px;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 1px 1px 1px 1px;
+    cursor: pointer;
+    font-family: 'Fredoka One';
+    box-shadow: 3px 3px 3px gray;    
+}
+.footer{
+    background-color: #666666;
+    margin-top: 20px;
+    border-style: solid;
+}
+.stadur{
+    border-radius: 5px;
+    background-color: #666666;
+    margin-top: 1px;
+    border-style: solid;
+}
+.mail{
+    border-radius: 5px;
+    background-color: #666666;
+    margin-top: 1px;
+    border-style: solid;
+}
+.simi{
+    border-radius: 5px;
+    background-color: #666666;
+    margin-top: 1px;
+    border-style: solid;
+}
+
